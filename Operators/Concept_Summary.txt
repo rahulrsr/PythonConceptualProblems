@@ -1,0 +1,13 @@
+Non Boolean Types Behaviour:
+
+1)0 means False
+2)Non Zero means True
+3)empty string is always treated as False
+
+x and y:
+if x evaluates to False then x
+else y
+
+x or y:
+if x ealutes to True then x
+else y
